@@ -1,1 +1,2 @@
-# colorpair
+# balls
+simple game
