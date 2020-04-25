@@ -69,6 +69,9 @@ keyPressed = ->
 	if key=="4" 
 		COLORS=createColors "05af"
 		reset 0
+	if key=="5" 
+		COLORS=createColors "048bf"
+		reset 0
 
 
 
